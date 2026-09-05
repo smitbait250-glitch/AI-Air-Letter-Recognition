@@ -1,24 +1,16 @@
-# Virtual environments
 .venv/
+.venv312/
 .venv_hand/
 venv/
 env/
 
-# Python cache
 __pycache__/
 *.pyc
 *.pyo
 
-# TensorFlow / datasets
-tensorflow_datasets/
-*.log
-
-# Jupyter
-.ipynb_checkpoints/
-
-# VS Code
 .vscode/
 
-# OS files
+tensorflow_datasets/
+.ipynb_checkpoints/
 .DS_Store
 Thumbs.db
